@@ -1,3 +1,18 @@
+### About
+
+Interactively render `diagrams` in the JavaScript by-way of
+[miso](http://github.com/dmjio/miso/) and
+[diagrams-miso](https://github.com/cocreature/diagrams-miso) (and
+stack, instead of nix).
+
+```
+11:18 AM noon ∈ diagrams-miso-poc (master*) ♫ stack --version                                                                                                                             148 ↵
+Version 1.9.3, Git revision 40cf7b37526b86d1676da82167ea8758a854953b (6211 commits) x86_64 hpack-0.31.1
+```
+
+![](images/ss.png)
+
+
 ### Requirements
 
 - Stack
