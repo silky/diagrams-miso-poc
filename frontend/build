@@ -1,0 +1,9 @@
+#!/bin/bash
+
+set -ex
+
+stack build
+mkdir -p dist/
+cp $(stack path --local-install-root)/bin/app.jsexe/* dist/
+cp style.css dist/
+echo Done!

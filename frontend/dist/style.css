@@ -1,0 +1,20 @@
+label {
+  background: #eaeaea;
+  width: 200px;
+  padding: 5px;
+}
+
+input {
+  padding: 5px;
+}
+
+div.inputs {
+  display: flex;
+  flex-direction: row;
+}
+
+div.diagram {
+  margin: 20px;
+  display: flex;
+  justify-content: center;
+}
