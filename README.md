@@ -6,7 +6,7 @@ Interactively render `diagrams` in the JavaScript by-way of
 stack, instead of nix).
 
 ```
-11:18 AM noon ∈ diagrams-miso-poc (master*) ♫ stack --version                                                                                                                             148 ↵
+11:18 AM noon ∈ diagrams-miso-poc (master*) ♫ stack --version
 Version 1.9.3, Git revision 40cf7b37526b86d1676da82167ea8758a854953b (6211 commits) x86_64 hpack-0.31.1
 ```
 
