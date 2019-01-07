@@ -132,4 +132,5 @@ viewModel x = div_ []
   [ link_ [ rel_ "stylesheet" , href_ "style.css" ]
   , h1_ [] [ text "Miso Diagrams POC" ]
   , diagram x
+  , a_ [href_ "https://github.com/silky/diagrams-miso-poc"] [ text "View Source on GitHub" ]
   ]

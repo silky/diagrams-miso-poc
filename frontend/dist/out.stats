@@ -17,7 +17,7 @@ CN11eeJSTJR9EjS4VGPOcF:  98035
 FHI0DNhgbC18st1z2BRIoI:  92232
 FXWGzvHR3esBwndpWciqNT:  41092
 FkQsLwAdqz5GYhlQN7pQ69:  10224
-HNHbNztvqZT5scylgbOLhq:  78778
+HNHbNztvqZT5scylgbOLhq:  79103
 HTSzCmHLnpG5rucTW5vmcd:  13905
 IKppsaGQyo3CWAbIkSpCP9:  34119
 IbULIjK37CvDoZSyI9E2qQ:  1975
@@ -28,7 +28,7 @@ KyVKkXP1la26DalI3npn9o:  10598
 base:                    681132
 ghc-prim:                26896
 integer-gmp:             33774
-main:                    79372
+main:                    81375
 
 
 code size per module:
@@ -150,7 +150,7 @@ HNHbNztvqZT5scylgbOLhq
     Miso.Event.Decoder:                 7063
     Miso.Event.Types:                   21286
     Miso.FFI:                           1055
-    Miso.Html.Element:                  1647
+    Miso.Html.Element:                  1972
     Miso.Html.Event:                    325
     Miso.Html.Internal:                 24383
     Miso.Html.Property:                 3322
@@ -261,9 +261,9 @@ integer-gmp
     GHC.Integer.Type:                   33441
 
 main
-    Main:                               79372
+    Main:                               81375
 
 
 
-packed metadata: 449567
+packed metadata: 450313
 
