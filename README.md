@@ -1,9 +1,9 @@
 ### About
 
-Interactively render `diagrams` in the JavaScript by-way of
-[miso](http://github.com/dmjio/miso/) and
-[diagrams-miso](https://github.com/cocreature/diagrams-miso) (and
-stack, instead of nix).
+Interactively render [diagrams](https://diagrams.github.io) in the JavaScript
+by-way of [miso](http://github.com/dmjio/miso/) and
+[diagrams-miso](https://github.com/cocreature/diagrams-miso) (and stack,
+instead of nix).
 
 ```
 11:18 AM noon ∈ diagrams-miso-poc (master*) ♫ stack --version
