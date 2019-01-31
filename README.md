@@ -28,6 +28,13 @@ and
 export PATH=/home/noon/.stack/programs/x86_64-linux/ghc-7.10.2/bin/:$PATH
 ```
 
+Set up socket.io (for ghci usage):
+
+```
+npm install socket.io
+export NODE_PATH=$(pwd)/node_modules
+```
+
 ### View Online
 
 [diagrams-miso-poc](https://silky.github.io/diagrams-miso-poc/frontend/dist/)
@@ -39,4 +46,3 @@ export PATH=/home/noon/.stack/programs/x86_64-linux/ghc-7.10.2/bin/:$PATH
 cd frontend
 ./build
 ```
-
